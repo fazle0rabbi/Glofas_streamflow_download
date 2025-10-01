@@ -5,7 +5,6 @@ User needs to change the api url to download the datasets as the new datasets ar
 So, this code provided here as CodeforGloFas.ipnyb will provide an easier way to download the same datasets from CEMS Early Warning Data Store (EWDS).
 Things user need to think before using this:
 
-Variable name → in EWDS, the variable is usually "dis24", not "river_discharge_in_the_last_24_hours" (that was CDS).
 
 - How to get the correct token
   - Go to EWDS dashboard and log in (https://ewds.climate.copernicus.eu/profile).
